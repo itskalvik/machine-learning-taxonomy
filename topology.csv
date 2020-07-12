@@ -135,7 +135,17 @@ Machine Learning.Optimization.Bayesian.Monte Carlo.Gibbs Sampling
 Machine Learning.Optimization.Bayesian.Monte Carlo.MC Dropout
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo
-Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Hybrid Monte Carlo
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Langevin Dynamics
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Hamiltonian Monte Carlo
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Nose-Hoover Thermostat
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Relativistic Stochastic Gradient Hamiltonian Monte Carlo
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Adaptive Thermostat Monte Carlo
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Covariance-Controlled Adaptive Langevin Thermostat
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Riemannian Hamiltonian Monte Carlo
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Preconditioned Stochastic Gradient Langevin Dynamics
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Hessian Approximated MCMC
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Riemannian Nosé-Poincaré Hamiltonian Dynamics 
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient MCMC Recipe
 Machine Learning.Optimization.Convex
 Machine Learning.Optimization.Credit Assignment
 Machine Learning.Optimization.Credit Assignment.Activation Alignment
