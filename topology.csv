@@ -1,0 +1,235 @@
+id
+Machine Learning
+Machine Learning.Data
+Machine Learning.Data Classification
+Machine Learning.Data Classification.Closed Set
+Machine Learning.Data Classification.Detection
+Machine Learning.Data Classification.Open Set
+Machine Learning.Data Classification.Open Set.The Extreme Value Machine
+Machine Learning.Data Classification.Verification
+Machine Learning.Data Generation
+Machine Learning.Data Generation.Autoencoder
+Machine Learning.Data Generation.Belief Network
+Machine Learning.Data Generation.Flow
+Machine Learning.Data Generation.Generative Adversarial Network
+Machine Learning.Data Generation.Restricted Boltzmann machine
+Machine Learning.Data Generation.Variational Autoencoder
+Machine Learning.Data Regression
+Machine Learning.Data.Domain Shift
+Machine Learning.Data.Domain Shift.Domain Adaptation
+Machine Learning.Data.Domain Shift.Domain Adaptation.Continual Learning
+Machine Learning.Data.Domain Shift.Domain Adaptation.Meta Learning
+Machine Learning.Data.Domain Shift.Domain Adaptation.Multi Task Learning
+Machine Learning.Data.Domain Shift.Domain Adaptation.Online Learning
+Machine Learning.Data.Domain Shift.Shift Detection
+Machine Learning.Data.Domain Shift.Transfer Learning
+Machine Learning.Data.Graph
+Machine Learning.Data.Image
+Machine Learning.Data.Noise
+Machine Learning.Data.Set
+Machine Learning.Data.Text
+Machine Learning.Information Theory
+Machine Learning.Information Theory.Information Bottleneck
+Machine Learning.Information Theory.Information Geometry
+Machine Learning.Information Theory.Mutual Information
+Machine Learning.Information Theory.Mutual Information.Information Maximization (IM Algorithm)
+Machine Learning.Information Theory.Mutual Information.Mutual Information Neural Estimator(MINE)
+Machine Learning.Information Theory.Regularization Theory
+Machine Learning.Neural Network Architectures
+Machine Learning.Neural Network Architectures.Deep Equilibrium Models
+Machine Learning.Neural Network Architectures.Highway Network
+Machine Learning.Neural Network Architectures.HyperNetwork
+Machine Learning.Neural Network Architectures.Multilayer Perceptrons
+Machine Learning.Neural Network Architectures.Ordinary Differential Equation Network
+Machine Learning.Neural Network Architectures.Perceptrons
+Machine Learning.Neural Network Architectures.Residual Network
+Machine Learning.Neural Network Architectures.Trellis Network
+Machine Learning.Neural Network Architectures.U-Nets
+Machine Learning.Neural Network Layers
+Machine Learning.Neural Network Layers.Activation
+Machine Learning.Neural Network Layers.Attention
+Machine Learning.Neural Network Layers.Connected
+Machine Learning.Neural Network Layers.Connected.Fully Connected
+Machine Learning.Neural Network Layers.Connected.Sparsely Connected
+Machine Learning.Neural Network Layers.Convolutional
+Machine Learning.Neural Network Layers.Convolutional.Capsules
+Machine Learning.Neural Network Layers.Convolutional.Graph
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.Fast Graph Convolutional Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.GeniePath
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.Graph Attention Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.GraphSAGE
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.Hyperbolic Graph Neural Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.PinSage
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.Position-aware Graph Neural Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spatial.Simplifying Graph Convolutional Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spectral
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spectral.Adaptive Graph Convolutional Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spectral.ChebNet
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spectral.Graph Convolutional Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spectral.Graph Wavelet Neural Network
+Machine Learning.Neural Network Layers.Convolutional.Graph.Spectral.LanczosNet
+Machine Learning.Neural Network Layers.Convolutional.Spatial
+Machine Learning.Neural Network Layers.Convolutional.Spatial.CoordConv
+Machine Learning.Neural Network Layers.Convolutional.Spatial.Selective Kernel
+Machine Learning.Neural Network Layers.Cross-channel Communication (C3)
+Machine Learning.Neural Network Layers.Global/Local Pooling
+Machine Learning.Neural Network Layers.Global/Local Pooling.Graph
+Machine Learning.Neural Network Layers.Global/Local Pooling.Graph.DiffPool
+Machine Learning.Neural Network Layers.Global/Local Pooling.Graph.Self-Attention Graph Pooling
+Machine Learning.Neural Network Layers.Global/Local Pooling.Graph.SortPool
+Machine Learning.Neural Network Layers.Global/Local Pooling.Graph.StructPool
+Machine Learning.Neural Network Layers.Global/Local Pooling.Graph.TopKPool
+Machine Learning.Neural Network Layers.Global/Local Pooling.Spatial
+Machine Learning.Neural Network Layers.Global/Local Pooling.Spatial.Average
+Machine Learning.Neural Network Layers.Global/Local Pooling.Spatial.Max
+Machine Learning.Neural Network Layers.Global/Local Pooling.Spatial.MaxBlurPool
+Machine Learning.Neural Network Layers.Memory
+Machine Learning.Neural Network Layers.Memory.Evolvable Neural Turing Machine
+Machine Learning.Neural Network Layers.Memory.Neural Turing Machines
+Machine Learning.Neural Network Layers.Memory.Reservoir Memory Machines
+Machine Learning.Neural Network Layers.Recurrent
+Machine Learning.Neural Network Layers.Recurrent.Gated Recurrent Unit
+Machine Learning.Neural Network Layers.Recurrent.Long Short-Term Memory layer
+Machine Learning.Neural Network Layers.Recurrent.Temporal Convolutional Network
+Machine Learning.Neural Network Layers.Transformation
+Machine Learning.Neural Network Layers.Weight/Activation Normalization
+Machine Learning.Neural Network Layers.Weight/Activation Normalization.Batch Normalization
+Machine Learning.Neural Network Layers.Weight/Activation Normalization.Batch Renormalization
+Machine Learning.Neural Network Layers.Weight/Activation Normalization.Filter Response Normalization
+Machine Learning.Neural Network Layers.Weight/Activation Normalization.Group Normalization
+Machine Learning.Neural Network Layers.Weight/Activation Normalization.Instance Normalization
+Machine Learning.Neural Network Layers.Weight/Activation Normalization.Layer Normalization
+Machine Learning.Neural Network Layers.Weight/Activation Normalization.Positional Normalization
+Machine Learning.Neural Network Layers.Weight/Activation Regularization
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Adversarial Learning
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.DropBlock
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Dropout
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Mixed Sample Data Augmentation
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Mixed Sample Data Augmentation.CutMix
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Mixed Sample Data Augmentation.Cutout
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Mixed Sample Data Augmentation.FMix
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Mixed Sample Data Augmentation.Manifold Mixup
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Mixed Sample Data Augmentation.MixUp
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Orthogonalization
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Quantization
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Distillation
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Spectral Penalization
+Machine Learning.Neural Network Layers.Weight/Activation Regularization.Stochastic Depth
+Machine Learning.Optimization
+Machine Learning.Optimization.Analytical
+Machine Learning.Optimization.Bayesian
+Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO)
+Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference
+Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference.Autoencoder
+Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference.Bayes by Backprop
+Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference.Mean-Field
+Machine Learning.Optimization.Bayesian.Gaussian Process
+Machine Learning.Optimization.Bayesian.Mixture Models
+Machine Learning.Optimization.Bayesian.Ensemble
+Machine Learning.Optimization.Bayesian.Ensemble.Weight Averaging
+Machine Learning.Optimization.Bayesian.Ensemble.Stochastic Weight Averaging
+Machine Learning.Optimization.Bayesian.Ensemble.Snapshot Ensembles
+Machine Learning.Optimization.Bayesian.Monte Carlo
+Machine Learning.Optimization.Bayesian.Monte Carlo.Gibbs Sampling
+Machine Learning.Optimization.Bayesian.Monte Carlo.MC Dropout
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Hybrid Monte Carlo
+Machine Learning.Optimization.Convex
+Machine Learning.Optimization.Credit Assignment
+Machine Learning.Optimization.Credit Assignment.Activation Alignment
+Machine Learning.Optimization.Credit Assignment.Backpropagation
+Machine Learning.Optimization.Credit Assignment.Difference Target Propagation
+Machine Learning.Optimization.Credit Assignment.Direct Feedback Alignment
+Machine Learning.Optimization.Credit Assignment.Equilibrium Propagation
+Machine Learning.Optimization.Credit Assignment.Feedback Alignment
+Machine Learning.Optimization.Credit Assignment.Indirect Feedback Alignment
+Machine Learning.Optimization.Credit Assignment.Node Perturbation
+Machine Learning.Optimization.Credit Assignment.REINFORCE
+Machine Learning.Optimization.Credit Assignment.Sign Symmetry
+Machine Learning.Optimization.Credit Assignment.Symmetric Alignment
+Machine Learning.Optimization.Credit Assignment.Target Propagation
+Machine Learning.Optimization.Credit Assignment.Weight Mirror
+Machine Learning.Optimization.Dynamic Programming
+Machine Learning.Optimization.Evolutionary Algorithms
+Machine Learning.Optimization.Evolutionary Algorithms.NeuroEvolution
+Machine Learning.Optimization.Evolutionary Algorithms.NeuroEvolution.NeuroEvolution of Augmenting Topologies (NEAT)
+Machine Learning.Optimization.Evolutionary Algorithms.Non-dominated Sorting Genetic Algorithm II (NSGA-II)
+Machine Learning.Optimization.Frequentist
+Machine Learning.Optimization.Frequentist.Maximum A Posteriori
+Machine Learning.Optimization.Frequentist.Maximum Likelihood Estimation
+Machine Learning.Optimization.Geometry
+Machine Learning.Optimization.Geometry.Euclidean
+Machine Learning.Optimization.Geometry.Non-Euclidean
+Machine Learning.Optimization.Geometry.Non-Euclidean.Hyperbolic
+Machine Learning.Optimization.Geometry.Non-Euclidean.Riemannian
+Machine Learning.Optimization.Gradient Descent
+Machine Learning.Optimization.Gradient Descent.Batch Gradient Descent
+Machine Learning.Optimization.Gradient Descent.Mini-batch Gradient Descent
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.BFGS
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.L-BFGS
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.Adadelta
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.Adagrad
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.Adam
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.AdaMax
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.Momentum
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.Nadam
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.Nesterov
+Machine Learning.Optimization.Gradient Descent.Quasi-Newton methods.RMSprop
+Machine Learning.Optimization.Gradient Descent.Stochastic Gradient Descent
+Machine Learning.Optimization.Greedy
+Machine Learning.Optimization.Heuristic
+Machine Learning.Optimization.Initialization
+Machine Learning.Optimization.Initialization.Constant
+Machine Learning.Optimization.Initialization.MetaInit
+Machine Learning.Optimization.Initialization.Normal/Uniform
+Machine Learning.Optimization.Initialization.Normal/Uniform.Glorot/Xavier
+Machine Learning.Optimization.Initialization.Normal/Uniform.Random
+Machine Learning.Optimization.Initialization.Normal/Uniform.Truncated
+Machine Learning.Optimization.Initialization.Orthogonal
+Machine Learning.Optimization.Loss Functions
+Machine Learning.Optimization.Loss Functions.Cross Entropy
+Machine Learning.Optimization.Loss Functions.Cross Entropy.Softmax
+Machine Learning.Optimization.Loss Functions.Cross Entropy.Softmax.L2T-DLF
+Machine Learning.Optimization.Loss Functions.Cross Entropy.Softmax.Mixtape
+Machine Learning.Optimization.Loss Functions.Cross Entropy.Softmax.Mixture of Softmaxes
+Machine Learning.Optimization.Loss Functions.Energy
+Machine Learning.Optimization.Loss Functions.Metric Learning
+Machine Learning.Optimization.Loss Functions.Metric Learning.A-Softmax
+Machine Learning.Optimization.Loss Functions.Metric Learning.AM-Softmax
+Machine Learning.Optimization.Loss Functions.Metric Learning.ArcFace
+Machine Learning.Optimization.Loss Functions.Metric Learning.CA-Loss
+Machine Learning.Optimization.Loss Functions.Metric Learning.Circle Loss
+Machine Learning.Optimization.Loss Functions.Metric Learning.L-Softmax
+Machine Learning.Optimization.Loss Functions.Metric Learning.Large Margin Cosine Loss
+Machine Learning.Optimization.Loss Functions.Metric Learning.NormFace
+Machine Learning.Optimization.Loss Functions.Metric Learning.SphereFace
+Machine Learning.Optimization.Loss Functions.Noise-Contrastive Estimation
+Machine Learning.Optimization.Loss Functions.Noise-Contrastive Estimation.Augmented Multiscale Deep InfoMax
+Machine Learning.Optimization.Loss Functions.Noise-Contrastive Estimation.Contrastive Predictive Coding
+Machine Learning.Optimization.Loss Functions.Noise-Contrastive Estimation.Deep InfoMax
+Machine Learning.Optimization.Loss Functions.Noise-Contrastive Estimation.Greedy InfoMax
+Machine Learning.Optimization.Loss Functions.Noise-Contrastive Estimation.SimCLR
+Machine Learning.Optimization.Newton methods
+Machine Learning.Optimization.Prediction Calibration
+Machine Learning.Training Types
+Machine Learning.Training Types.Federated Learning
+Machine Learning.Training Types.Few-shot Learning
+Machine Learning.Training Types.One-shot Learning
+Machine Learning.Training Types.Pseudo Supervised
+Machine Learning.Training Types.Reinforcement
+Machine Learning.Training Types.Representation
+Machine Learning.Training Types.Representation.Self-Supervised
+Machine Learning.Training Types.Semi-Supervised
+Machine Learning.Training Types.Superposition
+Machine Learning.Training Types.Supervised
+Machine Learning.Training Types.Un-Supervised
+Machine Learning.Visualization
+Machine Learning.Visualization.Component Analysis
+Machine Learning.Visualization.Grad-CAM
+Machine Learning.Visualization.Guided Backprop
+Machine Learning.Visualization.Loss Change Allocation
+Machine Learning.Visualization.t-SNE
+Machine Learning.Visualization.UMAP
