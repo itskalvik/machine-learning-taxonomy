@@ -11,5 +11,3 @@ The taxonomy presented here is from my understanding of the topics and might not
 
 #### References 
 The dendrogram/tree was generated with the following [code](https://bl.ocks.org/mbostock/e9ba78a2c1070980d1b530800ce7fa2b).
-
-{% include share-buttons.html %}
