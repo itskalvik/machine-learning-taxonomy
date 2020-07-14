@@ -1,3 +1,4 @@
+{% include share-buttons.html %}
 {% include dendrogram.html %}
 
 #### Suggestions 
