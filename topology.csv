@@ -166,6 +166,7 @@ Machine Learning.Optimization.Bayesian.Monte Carlo.MC Dropout
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Langevin Dynamics
+Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Fisher Scoring
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Hamiltonian Monte Carlo
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Stochastic Gradient Nose-Hoover Thermostat
 Machine Learning.Optimization.Bayesian.Monte Carlo.Metropolis Algorithm.Hybrid/Hamiltonian Monte Carlo.Relativistic Stochastic Gradient Hamiltonian Monte Carlo
