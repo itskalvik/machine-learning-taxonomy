@@ -225,6 +225,7 @@ Machine Learning.Optimization.Gradient Descent.Stochastic Gradient Descent
 Machine Learning.Optimization.Greedy
 Machine Learning.Optimization.Heuristic
 Machine Learning.Optimization.Initialization
+Machine Learning.Optimization.Initialization.Cognitive Model Priors 
 Machine Learning.Optimization.Initialization.Constant
 Machine Learning.Optimization.Initialization.MetaInit
 Machine Learning.Optimization.Initialization.Normal/Uniform
