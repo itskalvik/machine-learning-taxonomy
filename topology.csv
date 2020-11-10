@@ -156,7 +156,10 @@ Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational In
 Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference.Autoencoder
 Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference.Bayes by Backprop
 Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference.Mean-Field
-Machine Learning.Optimization.Bayesian.Gaussian Process
+Machine Learning.Optimization.Bayesian.Graphical Models
+Machine Learning.Optimization.Bayesian.Stochastic Processes
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Process
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Process.KISS-GP
 Machine Learning.Optimization.Bayesian.Mixture Models
 Machine Learning.Optimization.Bayesian.Ensemble
 Machine Learning.Optimization.Bayesian.Ensemble.Weight Averaging
