@@ -58,6 +58,8 @@ Machine Learning.Data.Image
 Machine Learning.Data.Noise
 Machine Learning.Data.Set
 Machine Learning.Data.Text
+Machine Learning.Data.Low-rank Approximations of Large Datasets
+Machine Learning.Data.Low-rank Approximations of Large Datasets.Submodularity
 Machine Learning.Information Theory
 Machine Learning.Information Theory.Information Bottleneck
 Machine Learning.Information Theory.Information Geometry
