@@ -160,10 +160,14 @@ Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational In
 Machine Learning.Optimization.Bayesian.Evidence Lower Bound(ELBO).Variational Inference.Mean-Field
 Machine Learning.Optimization.Bayesian.Graphical Models
 Machine Learning.Optimization.Bayesian.Stochastic Processes
-Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Process
-Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Process.Sparse Gaussian Process
-Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Process.Sparse Gaussian Process.KISS-GP
-Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Process.Sparse Gaussian Process.Nyström Method
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Neural Processes
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Energy-Based Processes
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Processes
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Processes.Deep Gaussian Processes
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Processes.Gaussian Process Latent Variable Models
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Processes.Sparse Gaussian Processes
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Processes.Sparse Gaussian Processes.KISS-GP
+Machine Learning.Optimization.Bayesian.Stochastic Processes.Gaussian Processes.Sparse Gaussian Processes.Nyström Method
 Machine Learning.Optimization.Bayesian.Mixture Models
 Machine Learning.Optimization.Bayesian.Ensemble
 Machine Learning.Optimization.Bayesian.Ensemble.Weight Averaging
